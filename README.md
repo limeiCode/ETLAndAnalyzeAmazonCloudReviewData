@@ -5,7 +5,7 @@ This project used <span style="color:purple;">**PySpark**</span> and <span style
 
 - - -
 
-![AmazonReview.jpg](assets/image1.jpg)
+![AmazonReview.jpg](assets/image1.png)
 
 - - -
 
