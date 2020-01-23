@@ -643,7 +643,7 @@
     },
     {
       "title": "",
-      "text": "%pyspark\nmode \u003d \"append\"\njdbc_url\u003d\"jdbc:postgresql://postgresqlforetlsoftwareandvideodvdreview.cgjfasmmonou.us-east-2.rds.amazonaws.com:5432/PostgreSQLForETLSoftwareAndVideoDVDReview\"\nconfig \u003d {\"user\":\"root\", \"password\": \"lmpostgre1!\", \"driver\":\"org.postgresql.Driver\"}\n#Endpoint: [ postgresqlforetlsoftwareandvideodvdreview.cgjfasmmonou.us-east-2.rds.amazonaws.com ]\n#Port:         [ 5432 ]\n#DB instance identifier:  [ PostgreSQLForETLSoftwareAndVideoDVDReview ]\n#Master username:        [ root ]\n#Master password:         [ lmpostgre1! ]  ",
+      "text": "%pyspark\nmode \u003d \"append\"\njdbc_url\u003d\"jdbc:postgresql://[EndPoint]\"\nconfig \u003d {\"user\":\"root\", \"password\": \"PW\", \"driver\":\"org.postgresql.Driver\"}\n#Endpoint: [ postgresqlforetlsoftwareandvideodvdreview.cgjfasmmonou.us-east-2.rds.amazonaws.com ]\n#Port:         [ 5432 ]\n#DB instance identifier:  [ PostgreSQLForETLSoftwareAndVideoDVDReview ]\n#Master username:        [ root ]\n#Master password:         [ PW ]  ",
       "user": "",
       "dateUpdated": "2020-01-10 22:21:15.000",
       "config": {
