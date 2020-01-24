@@ -38,7 +38,7 @@ By running the ZEPL notebook can get below results:
 
 - - -
 
-![result_1.png](static/images/12run.gif)
+![result_1.png](assets/CloudETLRun1.gif)
 
 
 - - -
