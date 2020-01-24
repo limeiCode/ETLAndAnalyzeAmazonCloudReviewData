@@ -12,7 +12,7 @@ This project used <span style="color:purple;">**PySpark**</span> and <span style
 
 ## Data source  
 
-* Two datasets 'Software' and 'VideoDVD' are selected from  [**Amazon Review Datasets**](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). 
+* The datasets 'Software' is selected from  [**Amazon Review Datasets**](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). 
 
 
 ## Technologies Used
